@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=223
+
+Source for vimtip #217.
+
+I found a website *cough*Tivoli.com*cough* that likes to obfuscate some of its help file web pages using ampersand-pound-digits-semicolon instead of normal ascii.  If you load the source with Vim (in Opera you can just designate Vim as your source viewing program), you can :so xl_tiv.vim to make it readable.
+
